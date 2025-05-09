@@ -13,3 +13,5 @@ All the files in this repository are released under [Creative Commons Attributio
 
 This means you can use them on your own derived works, in part or completely. But NOT for the purpose of commercial use.
 You can find a copy of the license in this repository.
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/araujofrancisco/Live_Temp)
